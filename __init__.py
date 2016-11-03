@@ -1,0 +1,1 @@
+default_app_config = 'machine_manager.apps.MachineManagerConfig'
